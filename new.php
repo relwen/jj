@@ -1,3 +1,4 @@
 <?php
 
-echo("Yes So good");
+
+echo("OK Lorem ipsum");
